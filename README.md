@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pmontesano
-- 👀 I'm Frontend Developer with more than 8 years of experience working on business applications. 
+- I'm Frontend Developer with more than 8 years of experience working on business applications. 
 Fully-committed to designing and developing innovative web-based applications to achieve the best user experience. Always eager to learn more and keep on improving.
 
 <!---
